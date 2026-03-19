@@ -57,8 +57,8 @@ const keyur = {
 
 ## ⚡ What I Do
 
-<!-- <img align="right" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/> -->
-<img align="right" width="320" height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/> 
+<!-- <img align="right" width="320" height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/> -->
 
 * 🎨 Build modern, responsive UIs with React & Tailwind
 * ⚙️ Develop secure & scalable backend APIs
